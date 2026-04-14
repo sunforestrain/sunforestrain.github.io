@@ -1,0 +1,127 @@
+# -- 网站基础设置 --
+baseURL = "https://sunforestrain.github.io/"
+title = "阳光森林雨"
+theme = "LoveIt"
+
+# -- 语言与默认设置 --
+defaultContentLanguage = "zh-cn"        # 默认语言设为中文
+languageCode = "zh-CN"                  # 网站语言代码
+hasCJKLanguage = true                   # 开启中日韩语言优化
+enableRobotsTXT = true
+enableEmoji = true
+
+# 分页设置
+[pagination]
+  pagerSize = 10
+
+# -- 菜单配置 --
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "标签"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
+    identifier = "categories"
+    name = "分类"
+    url = "/categories/"
+    weight = 3
+
+# -- 主题参数 --
+[params]
+  defaultTheme = "auto"                  # 跟随系统切换明暗主题
+  dateFormat = "2006-01-02"
+  description = "阳光森林雨的博客"        # 网站描述，用于SEO
+  images = ["/images/avatar.png"]        # 社交分享时展示的图片
+
+  # 作者信息
+  [params.author]
+    name = "阳光森林雨"
+
+  # 页脚设置
+  [params.footer]
+    enable = true
+    copyright = true
+    author = true
+    since = 2026
+    # 许可协议 (HTML格式)
+    license = '<a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+
+  # 主页设置
+  [params.home]
+    [params.home.profile]
+      enable = true
+      avatarURL = "/images/阳光森林雨.JPG"   # 你的头像图片路径
+      subtitle = "记录学习，分享生活"
+      social = true
+    [params.home.posts]
+      enable = true
+      paginate = 6                       # 首页显示文章数
+
+  # 社交链接 (请替换为你自己的链接)
+  [params.social]
+    GitHub = "sunforestrain"
+    Email = "你的邮箱@example.com"
+    # RSS = true
+
+  # 文章页面设置
+  [params.page]
+    # 文章目录
+    [params.page.toc]
+      enable = true
+    # 代码块
+    [params.page.code]
+      copy = true
+      maxShownLines = 50
+    # 分享按钮
+    [params.page.share]
+      enable = true
+    # 评论系统 (这里以Valine为例，你可以根据需要修改或关闭)
+    [params.page.comment]
+      enable = false                     # 暂时关闭，需要时再开启
+      # 如果你有Valine的AppID和AppKey，可以在这里填入并改为 enable = true
+      # [params.page.comment.valine]
+      #   enable = true
+      #   appId = "你的AppID"
+      #   appKey = "你的AppKey"
+      #   placeholder = "说点什么..."
+
+  # 搜索设置
+  [params.search]
+    enable = true
+    type = "fuse"                        # 使用本地搜索，无需额外配置
+
+# -- 多语言配置 (简体中文) --
+[languages.zh-cn]
+  languageCode = "zh-CN"
+  languageName = "简体中文"
+  weight = 1
+  copyright = "本文采用 CC BY-NC 4.0 许可协议"
+  [languages.zh-cn.params]
+    [languages.zh-cn.params.home.profile]
+      subtitle = "记录学习，分享生活"
+
+# -- 文档解析设置 --
+[markup]
+  [markup.highlight]
+    lineNos = false
+    noClasses = true
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true                     # 允许在Markdown中使用HTML
+
+# -- 永久链接设置 (文章URL) --
+[permalinks]
+  posts = "/:contentbasename/"           # 文章URL将直接使用文件名
+
+# -- 输出设置 --
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
