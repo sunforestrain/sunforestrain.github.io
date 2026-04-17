@@ -3,16 +3,57 @@
         <title>阳光森林雨</title>
         <link>http://localhost:1313/</link>
         <description>阳光森林雨的博客</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>本文采用 CC BY-NC 4.0 许可协议</copyright><lastBuildDate>Tue, 14 Apr 2026 17:47:43 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>本文采用 CC BY-NC 4.0 许可协议</copyright><lastBuildDate>Fri, 17 Apr 2026 09:02:35 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>20260414</title>
-    <link>http://localhost:1313/20260414/</link>
-    <pubDate>Tue, 14 Apr 2026 17:47:43 &#43;0800</pubDate>
+    <title>keeping naturally</title>
+    <link>http://localhost:1313/17th-april-2026/</link>
+    <pubDate>Fri, 17 Apr 2026 09:02:35 &#43;0800</pubDate>
     <author>阳光森林雨</author>
-    <guid>http://localhost:1313/20260414/</guid>
-    <description><![CDATA[<h1 id="你好我又回来了">你好，我又回来了！</h1>
-<p>反复尝试 ，遇到很多问题。</p>]]></description>
+    <guid>http://localhost:1313/17th-april-2026/</guid>
+    <description><![CDATA[<h1 id="避免刻意-保持自然">避免刻意 保持自然</h1>
+<p>在工作和生活当中往往有一些场合需要我们改变平时的状态
+例如跟领导汇报工作的时候你要表现得专注；跟客户做宣讲的时候你要表现得热情饱满；社交场合你要笑容可掬；
+这些都不是我们平时自然的状态，有很大的刻意成分在里头。维持这种状态需要消耗我们的精神能量，不可持久。</p>]]></description>
+</item>
+<item>
+    <title>Value</title>
+    <link>http://localhost:1313/16th-april-2026/</link>
+    <pubDate>Thu, 16 Apr 2026 08:54:33 &#43;0800</pubDate>
+    <author>阳光森林雨</author>
+    <guid>http://localhost:1313/16th-april-2026/</guid>
+    <description><![CDATA[<h1 id="ai时代的价值思考">AI时代的价值思考</h1>
+<p>随着AI技能的普及，未来基于固定程序的生产和创作都会被替代。以往知识、技能、经验这些传统价值会被削弱。尤其是知识。
+可以想象当AI网文满天飞的时候，知识会变得像废纸一样廉价。
+而人的个性、思维、爱好、天赋、智慧会显得弥足珍贵。
+当获取变得容易，我们不再思考“怎么获得”，而会更侧重于“什么才是我真正需要的？”
+从现在开始要关注自己。了解自己。记录自己。张扬个性、发挥特长，再交由AI放大。就像驾驶一台属于你自己的机动战士高达一样。
+那会是一件很酷的事情。</p>]]></description>
+</item>
+<item>
+    <title>Tips</title>
+    <link>http://localhost:1313/tips/</link>
+    <pubDate>Wed, 15 Apr 2026 12:26:11 &#43;0800</pubDate>
+    <author>阳光森林雨</author>
+    <guid>http://localhost:1313/tips/</guid>
+    <description><![CDATA[<h1 id="保持自己的节奏">保持自己的节奏</h1>
+<p>音乐有节奏，生活有节奏，工作也要有节奏。</p>]]></description>
+</item>
+<item>
+    <title>Yeah</title>
+    <link>http://localhost:1313/yeah/</link>
+    <pubDate>Tue, 14 Apr 2026 22:15:38 &#43;0800</pubDate>
+    <author>阳光森林雨</author>
+    <guid>http://localhost:1313/yeah/</guid>
+    <description><![CDATA[<h1 id="注重逻辑">注重逻辑</h1>]]></description>
+</item>
+<item>
+    <title>Life</title>
+    <link>http://localhost:1313/life/</link>
+    <pubDate>Tue, 14 Apr 2026 21:47:44 &#43;0800</pubDate>
+    <author>阳光森林雨</author>
+    <guid>http://localhost:1313/life/</guid>
+    <description><![CDATA[<h1 id="要有耐心">要有耐心</h1>]]></description>
 </item>
 </channel>
 </rss>
