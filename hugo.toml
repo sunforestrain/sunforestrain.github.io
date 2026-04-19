@@ -96,6 +96,13 @@ enableEmoji = true
     enable = true
     type = "fuse"                        # 使用本地搜索，无需额外配置
 
+  [params.header.title]
+      name = "阳光森林雨"      # 将这里改成你想要的名字
+      logo = ""               # 如果你想用图片Logo，可以在这里填图片路径
+      pre = ""                # 标题前加内容，可选
+      post = ""               # 标题后加内容，可选
+      typeit = false          # 是否开启动画打字效果，可选
+      
 # -- 多语言配置 (简体中文) --
 [languages.zh-cn]
   languageCode = "zh-CN"
