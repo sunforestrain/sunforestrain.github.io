@@ -3,7 +3,59 @@
         <title>所有文章 - 阳光森林雨</title>
         <link>http://localhost:1313/posts/</link>
         <description>所有文章 | 阳光森林雨</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>本文采用 CC BY-NC 4.0 许可协议</copyright><lastBuildDate>Sun, 19 Apr 2026 11:39:30 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>本文采用 CC BY-NC 4.0 许可协议</copyright><lastBuildDate>Fri, 24 Apr 2026 09:36:51 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Stop Stressing</title>
+    <link>http://localhost:1313/stop-stressing/</link>
+    <pubDate>Fri, 24 Apr 2026 09:36:51 &#43;0800</pubDate>
+    <author>阳光森林雨</author>
+    <guid>http://localhost:1313/stop-stressing/</guid>
+    <description><![CDATA[<h1 id="学会放松-保持放松-注意健身">学会放松 保持放松 注意健身</h1>
+<p>前一阵清明节回家扫墓我姐说我有白头发了.
+今天早上家属说我有好几根白头发了.
+我才注意到近几年我的精神始终处于紧绷状态.躯体也不由自主地僵硬.
+接下来我要学习放松.调整心态.灵活工作.积极健身.充分休息.
+优化工作效率,把更多的时间用在修炼身心灵上面去.
+</p>]]></description>
+</item>
+<item>
+    <title>Well Being</title>
+    <link>http://localhost:1313/well-being/</link>
+    <pubDate>Thu, 23 Apr 2026 10:27:38 &#43;0800</pubDate>
+    <author>阳光森林雨</author>
+    <guid>http://localhost:1313/well-being/</guid>
+    <description><![CDATA[<h1 id="保持健康的身体和阳光的心理状态">保持健康的身体和阳光的心理状态</h1>]]></description>
+</item>
+<item>
+    <title>Be Yourself</title>
+    <link>http://localhost:1313/be-yourself/</link>
+    <pubDate>Wed, 22 Apr 2026 09:40:33 &#43;0800</pubDate>
+    <author>阳光森林雨</author>
+    <guid>http://localhost:1313/be-yourself/</guid>
+    <description><![CDATA[<h1 id="勇敢地做自己-坚定不移地做自己-持之以恒地做自己">勇敢地做自己 坚定不移地做自己 持之以恒地做自己！</h1>]]></description>
+</item>
+<item>
+    <title>Job Insecurity</title>
+    <link>http://localhost:1313/job-insecurity/</link>
+    <pubDate>Tue, 21 Apr 2026 07:31:58 &#43;0800</pubDate>
+    <author>阳光森林雨</author>
+    <guid>http://localhost:1313/job-insecurity/</guid>
+    <description><![CDATA[<h1 id="不确定性是最大的确定">不确定性是最大的确定</h1>
+<p>人本性上是追求安全稳定的 但客观坏境往往是变化无常的
+让内心平和的方法之一就是以不确定性作为确定 培养自己的应变能力 提前做好应对变化的计划</p>]]></description>
+</item>
+<item>
+    <title>Pace of work and life</title>
+    <link>http://localhost:1313/pace/</link>
+    <pubDate>Mon, 20 Apr 2026 09:06:20 &#43;0800</pubDate>
+    <author>阳光森林雨</author>
+    <guid>http://localhost:1313/pace/</guid>
+    <description><![CDATA[<h1 id="在工作时间拖沓然后想着我晚上还可以熬夜这种想法是自欺欺人的">在工作时间拖沓，然后想着我晚上还可以熬夜。这种想法是自欺欺人的。</h1>
+<p>一天只有24小时。工作、吃饭、睡觉哪一样都不能少。
+不要想着通过挤占其中一项的时间去弥补因为拖沓和散漫导致的低效率。这样做得不偿失。该工作的时候就高效率地去工作。
+该休息的时候就要以放松的状态休息。
+劳逸结合才是正确的方法。</p>]]></description>
+</item>
+<item>
     <title>Me Time</title>
     <link>http://localhost:1313/me-time/</link>
     <pubDate>Sun, 19 Apr 2026 11:39:30 &#43;0800</pubDate>
@@ -55,31 +107,6 @@
 当获取变得容易，我们不再思考“怎么获得”，而会更侧重于“什么才是我真正需要的？”
 从现在开始要关注自己。了解自己。记录自己。张扬个性、发挥特长，再交由AI放大。就像驾驶一台属于你自己的机动战士高达一样。
 那会是一件很酷的事情。</p>]]></description>
-</item>
-<item>
-    <title>Tips</title>
-    <link>http://localhost:1313/tips/</link>
-    <pubDate>Wed, 15 Apr 2026 12:26:11 &#43;0800</pubDate>
-    <author>阳光森林雨</author>
-    <guid>http://localhost:1313/tips/</guid>
-    <description><![CDATA[<h1 id="保持自己的节奏">保持自己的节奏</h1>
-<p>音乐有节奏，生活有节奏，工作也要有节奏。</p>]]></description>
-</item>
-<item>
-    <title>Yeah</title>
-    <link>http://localhost:1313/yeah/</link>
-    <pubDate>Tue, 14 Apr 2026 22:15:38 &#43;0800</pubDate>
-    <author>阳光森林雨</author>
-    <guid>http://localhost:1313/yeah/</guid>
-    <description><![CDATA[<h1 id="注重逻辑">注重逻辑</h1>]]></description>
-</item>
-<item>
-    <title>Life</title>
-    <link>http://localhost:1313/life/</link>
-    <pubDate>Tue, 14 Apr 2026 21:47:44 &#43;0800</pubDate>
-    <author>阳光森林雨</author>
-    <guid>http://localhost:1313/life/</guid>
-    <description><![CDATA[<h1 id="要有耐心">要有耐心</h1>]]></description>
 </item>
 </channel>
 </rss>
