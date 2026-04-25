@@ -2,9 +2,10 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2026-04-24T09:36:51&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/easy/</loc><lastmod>2026-04-25T11:58:54&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2026-04-25T11:58:54&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2026-04-25T11:58:54&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/stop-stressing/</loc><lastmod>2026-04-24T09:36:51&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/</loc><lastmod>2026-04-24T09:36:51&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/well-being/</loc><lastmod>2026-04-23T10:27:38&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/be-yourself/</loc><lastmod>2026-04-22T09:40:33&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/job-insecurity/</loc><lastmod>2026-04-21T07:31:58&#43;08:00</lastmod></url><url>
