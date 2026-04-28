@@ -3,7 +3,19 @@
         <title>所有文章 - 阳光森林雨</title>
         <link>http://localhost:1313/posts/</link>
         <description>所有文章 | 阳光森林雨</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>本文采用 CC BY-NC 4.0 许可协议</copyright><lastBuildDate>Sat, 25 Apr 2026 11:58:54 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>本文采用 CC BY-NC 4.0 许可协议</copyright><lastBuildDate>Tue, 28 Apr 2026 16:33:51 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Social Media Running</title>
+    <link>http://localhost:1313/social-media-running/</link>
+    <pubDate>Tue, 28 Apr 2026 16:33:51 &#43;0800</pubDate>
+    <author>阳光森林雨</author>
+    <guid>http://localhost:1313/social-media-running/</guid>
+    <description><![CDATA[<h1 id="我打算如何打造我的自媒体">我打算如何打造我的自媒体</h1>
+<p>三个原则： 真诚、 自然 、不刻意。</p>
+<p>从根本上来说，这三个词所表达的意思是一样的。</p>
+<p>这里我用分别用三个不同的词语表达同一个意思。</p>
+<p>一方面是为了强调重要性。另一方面也是为了体现我实现目的的三种方式。</p>]]></description>
+</item>
+<item>
     <title>Easy</title>
     <link>http://localhost:1313/easy/</link>
     <pubDate>Sat, 25 Apr 2026 11:58:54 &#43;0800</pubDate>
@@ -93,17 +105,6 @@
     <description><![CDATA[<h1 id="利用好碎片化时间-将工作和生活有机结合">利用好碎片化时间 将工作和生活有机结合</h1>
 <p>我在探索一种随时保持工作状态的能力。在空闲时间，在娱乐放松的时候随时链接我的工作。这会让我更有灵感。
 让我的工作高效又从容。</p>]]></description>
-</item>
-<item>
-    <title>keeping naturally</title>
-    <link>http://localhost:1313/17th-april-2026/</link>
-    <pubDate>Fri, 17 Apr 2026 09:02:35 &#43;0800</pubDate>
-    <author>阳光森林雨</author>
-    <guid>http://localhost:1313/17th-april-2026/</guid>
-    <description><![CDATA[<h1 id="避免刻意-保持自然">避免刻意 保持自然</h1>
-<p>在工作和生活当中往往有一些场合需要我们改变平时的状态
-例如跟领导汇报工作的时候你要表现得专注；跟客户做宣讲的时候你要表现得热情饱满；社交场合你要笑容可掬；
-这些都不是我们平时自然的状态，有很大的刻意成分在里头。维持这种状态需要消耗我们的精神能量，不可持久。</p>]]></description>
 </item>
 </channel>
 </rss>
