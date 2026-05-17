@@ -2,9 +2,13 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2026-04-28T16:33:51&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/many-a-little-makes-a-mickle/</loc><lastmod>2026-05-17T15:54:06&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2026-05-17T15:54:06&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2026-05-17T15:54:06&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/less-is-more/</loc><lastmod>2026-05-14T15:09:21&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/get-real/</loc><lastmod>2026-04-30T14:53:00&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/integrity/</loc><lastmod>2026-04-29T14:46:15&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/social-media-running/</loc><lastmod>2026-04-28T16:33:51&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/</loc><lastmod>2026-04-28T16:33:51&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/easy/</loc><lastmod>2026-04-25T11:58:54&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/stop-stressing/</loc><lastmod>2026-04-24T09:36:51&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/well-being/</loc><lastmod>2026-04-23T10:27:38&#43;08:00</lastmod></url><url>
