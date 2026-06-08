@@ -3,9 +3,27 @@
         <title>阳光森林雨</title>
         <link>http://localhost:1313/</link>
         <description>阳光森林雨的博客</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>本文采用 CC BY-NC 4.0 许可协议</copyright><lastBuildDate>Sun, 17 May 2026 15:54:06 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>本文采用 CC BY-NC 4.0 许可协议</copyright><lastBuildDate>Mon, 08 Jun 2026 14:00:52 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Assertive Pragmatic</title>
+    <link>http://localhost:1313/assertive-pragmatic/</link>
+    <pubDate>Mon, 08 Jun 2026 14:00:52 &#43;0800</pubDate>
+    <author>阳光森林雨</author>
+    <guid>http://localhost:1313/assertive-pragmatic/</guid>
+    <description><![CDATA[<h1 id="自信和务实">自信和务实</h1>
+<p>坚定自信，敢于表达观点和需求。</p>
+<p>结果导向。关注  <strong>存款</strong>  <strong>能力</strong> 和 <strong>生活</strong></p>]]></description>
+</item>
+<item>
+    <title>Stay on Standby</title>
+    <link>http://localhost:1313/stay-on-standby/</link>
+    <pubDate>Mon, 18 May 2026 09:54:42 &#43;0800</pubDate>
+    <author>阳光森林雨</author>
+    <guid>http://localhost:1313/stay-on-standby/</guid>
+    <description><![CDATA[<h1 id="每一个早上启动工作在线状态-就像保持格斗势-可以让你在应对工作的时候更加从容-养成习惯">每一个早上启动工作在线状态 就像保持格斗势 可以让你在应对工作的时候更加从容 养成习惯</h1>]]></description>
+</item>
+<item>
     <title>Many a Little Makes a Mickle</title>
     <link>http://localhost:1313/many-a-little-makes-a-mickle/</link>
     <pubDate>Sun, 17 May 2026 15:54:06 &#43;0800</pubDate>
@@ -93,24 +111,6 @@ Face the acts!<br>
     <author>阳光森林雨</author>
     <guid>http://localhost:1313/well-being/</guid>
     <description><![CDATA[<h1 id="保持健康的身体和阳光的心理状态">保持健康的身体和阳光的心理状态</h1>]]></description>
-</item>
-<item>
-    <title>Be Yourself</title>
-    <link>http://localhost:1313/be-yourself/</link>
-    <pubDate>Wed, 22 Apr 2026 09:40:33 &#43;0800</pubDate>
-    <author>阳光森林雨</author>
-    <guid>http://localhost:1313/be-yourself/</guid>
-    <description><![CDATA[<h1 id="勇敢地做自己-坚定不移地做自己-持之以恒地做自己">勇敢地做自己 坚定不移地做自己 持之以恒地做自己！</h1>]]></description>
-</item>
-<item>
-    <title>Job Insecurity</title>
-    <link>http://localhost:1313/job-insecurity/</link>
-    <pubDate>Tue, 21 Apr 2026 07:31:58 &#43;0800</pubDate>
-    <author>阳光森林雨</author>
-    <guid>http://localhost:1313/job-insecurity/</guid>
-    <description><![CDATA[<h1 id="不确定性是最大的确定">不确定性是最大的确定</h1>
-<p>人本性上是追求安全稳定的 但客观坏境往往是变化无常的
-让内心平和的方法之一就是以不确定性作为确定 培养自己的应变能力 提前做好应对变化的计划</p>]]></description>
 </item>
 </channel>
 </rss>

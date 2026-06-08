@@ -2,9 +2,11 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>http://localhost:1313/assertive-pragmatic/</loc><lastmod>2026-06-08T14:00:52&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2026-06-08T14:00:52&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2026-06-08T14:00:52&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/stay-on-standby/</loc><lastmod>2026-05-18T09:54:42&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/many-a-little-makes-a-mickle/</loc><lastmod>2026-05-17T15:54:06&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2026-05-17T15:54:06&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/</loc><lastmod>2026-05-17T15:54:06&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/less-is-more/</loc><lastmod>2026-05-14T15:09:21&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/get-real/</loc><lastmod>2026-04-30T14:53:00&#43;08:00</lastmod></url><url>
             <loc>http://localhost:1313/integrity/</loc><lastmod>2026-04-29T14:46:15&#43;08:00</lastmod></url><url>
