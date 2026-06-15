@@ -3,9 +3,21 @@
         <title>阳光森林雨</title>
         <link>http://localhost:1313/</link>
         <description>阳光森林雨的博客</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>本文采用 CC BY-NC 4.0 许可协议</copyright><lastBuildDate>Mon, 08 Jun 2026 14:00:52 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>本文采用 CC BY-NC 4.0 许可协议</copyright><lastBuildDate>Sat, 13 Jun 2026 23:14:46 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Assertive</title>
+    <link>http://localhost:1313/assertive/</link>
+    <pubDate>Sat, 13 Jun 2026 23:14:46 &#43;0800</pubDate>
+    <author>阳光森林雨</author>
+    <guid>http://localhost:1313/assertive/</guid>
+    <description><![CDATA[<h1 id="习惯在别人面前放低姿态-过度客气-不自觉迎合">习惯在别人面前放低姿态 过度客气 不自觉迎合</h1>
+<p>自信 坦诚 大方 不掩饰 不刻意 拒绝不懂装懂</p>
+<p>这是压实底气的重要基础</p>
+<p>在人格上必须表现出不卑不亢</p>
+<p>警惕有些人把你的客气和尊重理解为对他有所企图</p>]]></description>
+</item>
+<item>
     <title>Assertive Pragmatic</title>
     <link>http://localhost:1313/assertive-pragmatic/</link>
     <pubDate>Mon, 08 Jun 2026 14:00:52 &#43;0800</pubDate>
@@ -103,14 +115,6 @@ Face the acts!<br>
 我才注意到近几年我的精神始终处于紧绷状态.躯体也不由自主地僵硬.
 接下来我要学习放松.调整心态.灵活工作.积极健身.充分休息.
 优化工作效率,把更多的时间用在修炼身心灵上面去.</p>]]></description>
-</item>
-<item>
-    <title>Well Being</title>
-    <link>http://localhost:1313/well-being/</link>
-    <pubDate>Thu, 23 Apr 2026 10:27:38 &#43;0800</pubDate>
-    <author>阳光森林雨</author>
-    <guid>http://localhost:1313/well-being/</guid>
-    <description><![CDATA[<h1 id="保持健康的身体和阳光的心理状态">保持健康的身体和阳光的心理状态</h1>]]></description>
 </item>
 </channel>
 </rss>
