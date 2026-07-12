@@ -3,7 +3,32 @@
         <title>所有文章 - 阳光森林雨</title>
         <link>http://localhost:1313/posts/</link>
         <description>所有文章 | 阳光森林雨</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>本文采用 CC BY-NC 4.0 许可协议</copyright><lastBuildDate>Sat, 13 Jun 2026 23:14:46 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>本文采用 CC BY-NC 4.0 许可协议</copyright><lastBuildDate>Sun, 12 Jul 2026 16:00:46 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Aha</title>
+    <link>http://localhost:1313/aha/</link>
+    <pubDate>Sun, 12 Jul 2026 16:00:46 &#43;0800</pubDate>
+    <author>阳光森林雨</author>
+    <guid>http://localhost:1313/aha/</guid>
+    <description><![CDATA[<h1 id="some-things-ive-realized-from-my-recent-work">Some things I’ve realized from my recent work&hellip;</h1>
+<h1 id="任何一项制度都有颗粒度包括法律有颗粒度就意味着有缝隙你总能沿着缝隙找到你想去的方向">任何一项制度都有颗粒度。包括法律。有颗粒度就意味着有缝隙。你总能沿着缝隙找到你想去的方向。</h1>
+<p>与其去抱怨制度，不如去研究制度。先做你能做的，再做你想要做的。</p>
+<h1 id="立足于社会-不要立足于岗位">立足于社会 不要立足于岗位。</h1>
+<p>你的社会价值是工作稳定的基础。</p>]]></description>
+</item>
+<item>
+    <title>Thinking List</title>
+    <link>http://localhost:1313/thinking-list/</link>
+    <pubDate>Mon, 15 Jun 2026 17:16:46 &#43;0800</pubDate>
+    <author>阳光森林雨</author>
+    <guid>http://localhost:1313/thinking-list/</guid>
+    <description><![CDATA[<h1 id="brave-quiet-confidence">Brave-quiet-confidence</h1>
+<p>You are not the only one who feel upset about the situation.</p>
+<p>but don&rsquo;t be that weak about yourself.</p>
+<p>stay nature</p>
+<p>believe yourself.</p>
+<p>do what you thinking you should do.</p>]]></description>
+</item>
+<item>
     <title>Assertive</title>
     <link>http://localhost:1313/assertive/</link>
     <pubDate>Sat, 13 Jun 2026 23:14:46 &#43;0800</pubDate>
@@ -88,31 +113,6 @@ Face the acts!<br>
 <p>从根本上来说，这三个词所表达的意思是一样的。</p>
 <p>这里我用分别用三个不同的词语表达同一个意思。</p>
 <p>一方面是为了强调重要性。另一方面也是为了体现我实现目的的三种方式。</p>]]></description>
-</item>
-<item>
-    <title>Easy</title>
-    <link>http://localhost:1313/easy/</link>
-    <pubDate>Sat, 25 Apr 2026 11:58:54 &#43;0800</pubDate>
-    <author>阳光森林雨</author>
-    <guid>http://localhost:1313/easy/</guid>
-    <description><![CDATA[<h1 id="乾坤容我懒">乾坤容我懒</h1>
-<p><figure><a class="lightgallery" href="/easy/images/%E4%B9%BE%E5%9D%A4%E5%AE%B9%E6%88%91%E6%87%92.png" title="乾坤容我懒" data-thumbnail="/easy/images/%E4%B9%BE%E5%9D%A4%E5%AE%B9%E6%88%91%E6%87%92.png" data-sub-html="<h2>很有松弛感的一句话</h2><p>乾坤容我懒</p>">
-        
-    </a><figcaption class="image-caption">很有松弛感的一句话</figcaption>
-    </figure></p>]]></description>
-</item>
-<item>
-    <title>Stop Stressing</title>
-    <link>http://localhost:1313/stop-stressing/</link>
-    <pubDate>Fri, 24 Apr 2026 09:36:51 &#43;0800</pubDate>
-    <author>阳光森林雨</author>
-    <guid>http://localhost:1313/stop-stressing/</guid>
-    <description><![CDATA[<h1 id="学会放松-保持放松-注意健身">学会放松 保持放松 注意健身</h1>
-<p>前一阵清明节回家扫墓我姐说我有白头发了.
-今天早上家属说我有好几根白头发了.
-我才注意到近几年我的精神始终处于紧绷状态.躯体也不由自主地僵硬.
-接下来我要学习放松.调整心态.灵活工作.积极健身.充分休息.
-优化工作效率,把更多的时间用在修炼身心灵上面去.</p>]]></description>
 </item>
 </channel>
 </rss>
