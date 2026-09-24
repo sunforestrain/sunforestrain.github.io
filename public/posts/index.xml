@@ -3,7 +3,19 @@
         <title>所有文章 - 阳光森林雨</title>
         <link>http://localhost:1313/posts/</link>
         <description>所有文章 | 阳光森林雨</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>本文采用 CC BY-NC 4.0 许可协议</copyright><lastBuildDate>Mon, 03 Aug 2026 11:37:29 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>本文采用 CC BY-NC 4.0 许可协议</copyright><lastBuildDate>Thu, 24 Sep 2026 15:34:16 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Happy Mid Autumn !</title>
+    <link>http://localhost:1313/happy-mid-autumn-/</link>
+    <pubDate>Thu, 24 Sep 2026 15:34:16 &#43;0800</pubDate>
+    <author>阳光森林雨</author>
+    <guid>http://localhost:1313/happy-mid-autumn-/</guid>
+    <description><![CDATA[<h1 id="节日快乐啦">节日快乐啦！</h1>
+<p><figure><a class="lightgallery" href="/happy-mid-autumn-/images/Happy-Mid-Autumn.jpg" title="中秋节快乐" data-thumbnail="/happy-mid-autumn-/images/Happy-Mid-Autumn.jpg" data-sub-html="<h2>很有松弛感的一句话中秋节快乐</h2><p>中秋节快乐</p>">
+        
+    </a><figcaption class="image-caption">很有松弛感的一句话中秋节快乐</figcaption>
+    </figure></p>]]></description>
+</item>
+<item>
     <title> Just saying</title>
     <link>http://localhost:1313/just-saying/</link>
     <pubDate>Mon, 03 Aug 2026 11:37:29 &#43;0800</pubDate>
@@ -96,20 +108,6 @@
 Face the acts!<br>
 你知道所有的预见都会成为现实！<br>
 越早面对，越少被动！</p>]]></description>
-</item>
-<item>
-    <title>Integrity</title>
-    <link>http://localhost:1313/integrity/</link>
-    <pubDate>Wed, 29 Apr 2026 14:46:15 &#43;0800</pubDate>
-    <author>阳光森林雨</author>
-    <guid>http://localhost:1313/integrity/</guid>
-    <description><![CDATA[<h1 id="揪出那只脏淫的鬼">揪出那只脏淫的鬼！</h1>
-<p>一只艳丽的女鬼 百般狐魅</p>
-<p>它深潜在阴湿暗潮处 尸虫烂腐</p>
-<p>饥渴的目光寻时刻在你的躯体上轮巡 伺机而动  乘隙而入</p>
-<p>一丝一寸地挑逗你</p>
-<p>一点一滴地勾引你</p>
-<p>想让你从排斥到沉默再到迎合</p>]]></description>
 </item>
 </channel>
 </rss>
