@@ -2,6 +2,9 @@
 date = '2026-04-30T14:53:00+08:00'
 draft = false
 title = 'Get Real'
+featuredImage = "/images/covers/get-real.jpg"
+featuredImagePreview = "/images/covers/get-real-preview.jpg"
+images = ["/images/covers/get-real.jpg"]
 +++
 
 # 把生存的根深入社会的土壤

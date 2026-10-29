@@ -2,6 +2,9 @@
 date = '2026-04-19T11:39:30+08:00'
 draft = false
 title = 'Me Time'
+featuredImage = "/images/covers/me-time.jpg"
+featuredImagePreview = "/images/covers/me-time-preview.jpg"
+images = ["/images/covers/me-time.jpg"]
 +++
 # work and life  Me time and we time
 以前我们总强调和追求工作和生活的平衡。在生活中，独处时间和家庭生活也需要平衡。

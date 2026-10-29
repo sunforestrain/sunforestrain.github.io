@@ -2,6 +2,9 @@
 date = '2026-07-12T16:00:46+08:00'
 draft = false
 title = 'Aha'
+featuredImage = "/images/covers/aha.jpg"
+featuredImagePreview = "/images/covers/aha-preview.jpg"
+images = ["/images/covers/aha.jpg"]
 +++
 # Some things I’ve realized from my recent work...
 # 任何一项制度都有颗粒度。包括法律。有颗粒度就意味着有缝隙。你总能沿着缝隙找到你想去的方向。

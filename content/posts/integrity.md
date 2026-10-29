@@ -2,6 +2,9 @@
 date = '2026-04-29T14:46:15+08:00'
 draft = false
 title = 'Integrity'
+featuredImage = "/images/covers/integrity.jpg"
+featuredImagePreview = "/images/covers/integrity-preview.jpg"
+images = ["/images/covers/integrity.jpg"]
 +++
 
 # 揪出那只脏淫的鬼！  

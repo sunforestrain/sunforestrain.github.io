@@ -2,6 +2,9 @@
 date = '2026-04-28T16:33:51+08:00'
 draft = false
 title = 'Social Media Running'
+featuredImage = "/images/covers/social-media-running.jpg"
+featuredImagePreview = "/images/covers/social-media-running-preview.jpg"
+images = ["/images/covers/social-media-running.jpg"]
 +++
 
 # 我的自媒体

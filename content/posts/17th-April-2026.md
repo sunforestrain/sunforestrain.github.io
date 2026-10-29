@@ -2,6 +2,9 @@
 date = '2026-04-17T09:02:35+08:00'
 draft = false
 title = 'keeping naturally'
+featuredImage = "/images/covers/17th-april-2026.jpg"
+featuredImagePreview = "/images/covers/17th-april-2026-preview.jpg"
+images = ["/images/covers/17th-april-2026.jpg"]
 +++
 # 避免刻意 保持自然
 在工作和生活当中往往有一些场合需要我们改变平时的状态

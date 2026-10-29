@@ -2,6 +2,9 @@
 date = '2026-04-20T09:06:20+08:00'
 draft = false
 title = 'Pace of work and life'
+featuredImage = "/images/covers/pace.jpg"
+featuredImagePreview = "/images/covers/pace-preview.jpg"
+images = ["/images/covers/pace.jpg"]
 +++
 # 在工作时间拖沓，然后想着我晚上还可以熬夜。这种想法是自欺欺人的。
 一天只有24小时。工作、吃饭、睡觉哪一样都不能少。

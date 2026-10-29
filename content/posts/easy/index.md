@@ -2,6 +2,9 @@
 date = '2026-04-25T11:58:54+08:00'
 draft = false
 title = 'Easy'
+featuredImage = "/images/covers/easy.jpg"
+featuredImagePreview = "/images/covers/easy-preview.jpg"
+images = ["/images/covers/easy.jpg"]
 +++
 
 # 乾坤容我懒

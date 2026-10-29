@@ -2,6 +2,9 @@
 date = '2026-10-28T00:00:00+08:00'
 draft = false
 title = '有一种心头痒叫老猫枕咸鱼'
+featuredImage = "/images/covers/cat-and-salted-fish.jpg"
+featuredImagePreview = "/images/covers/cat-and-salted-fish-preview.jpg"
+images = ["/images/covers/cat-and-salted-fish.jpg"]
 +++
 
 # 有一种心头痒叫老猫枕咸鱼

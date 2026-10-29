@@ -2,6 +2,9 @@
 date = '2026-06-13T23:14:46+08:00'
 draft = false
 title = 'Assertive'
+featuredImage = "/images/covers/assertive.jpg"
+featuredImagePreview = "/images/covers/assertive-preview.jpg"
+images = ["/images/covers/assertive.jpg"]
 +++
 
 # 习惯在别人面前放低姿态 过度客气 不自觉迎合  

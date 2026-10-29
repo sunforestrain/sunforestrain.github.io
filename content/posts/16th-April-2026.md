@@ -2,6 +2,9 @@
 date = '2026-04-16T08:54:33+08:00'
 draft = false
 title = 'Value'
+featuredImage = "/images/covers/16th-april-2026.jpg"
+featuredImagePreview = "/images/covers/16th-april-2026-preview.jpg"
+images = ["/images/covers/16th-april-2026.jpg"]
 +++
 # AI时代的价值思考
 随着AI技能的普及，未来基于固定程序的生产和创作都会被替代。以往知识、技能、经验这些传统价值会被削弱。尤其是知识。

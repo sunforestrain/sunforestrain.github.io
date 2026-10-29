@@ -2,6 +2,9 @@
 date = '2026-04-21T07:31:58+08:00'
 draft =false
 title = 'Job Insecurity'
+featuredImage = "/images/covers/job-insecurity.jpg"
+featuredImagePreview = "/images/covers/job-insecurity-preview.jpg"
+images = ["/images/covers/job-insecurity.jpg"]
 +++
 # 不确定性是最大的确定
 人本性上是追求安全稳定的 但客观坏境往往是变化无常的
