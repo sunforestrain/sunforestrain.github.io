@@ -37,11 +37,18 @@ enableEmoji = true
   defaultTheme = "auto"                  # 跟随系统切换明暗主题
   dateFormat = "2006-01-02"
   description = "阳光森林雨的博客"        # 网站描述，用于SEO
-  images = ["/images/avatar.png"]        # 社交分享时展示的图片
+  images = ["/images/og-default.png"]    # 社交分享时展示的图片(1200x630)
 
   # 作者信息
   [params.author]
     name = "阳光森林雨"
+
+  # App 图标设置 (favicon / PWA / 添加到主屏幕)
+  [params.app]
+    title = "阳光森林雨"                   # 添加到主屏幕时显示的标题
+    noFavicon = false
+    themeColor = "#ffffff"                 # Android 浏览器主题色
+    tileColor = "#da532c"                  # Windows 磁贴颜色
 
   # 页脚设置
   [params.footer]
@@ -56,7 +63,7 @@ enableEmoji = true
   [params.home]
     [params.home.profile]
       enable = true
-      avatarURL = "/images/阳光森林雨.JPG"   # 你的头像图片路径
+      avatarURL = "/images/avatar.jpg"     # 你的头像图片路径(英文文件名,避免编码问题)
       subtitle = "记录学习，分享生活"
       social = true
     [params.home.posts]
