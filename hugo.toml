@@ -31,6 +31,11 @@ enableEmoji = true
     name = "分类"
     url = "/categories/"
     weight = 3
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about/"
+    weight = 4
 
 # -- 主题参数 --
 [params]
@@ -88,15 +93,22 @@ enableEmoji = true
     # 分享按钮
     [params.page.share]
       enable = true
-    # 评论系统 (这里以Valine为例，你可以根据需要修改或关闭)
+    # 评论系统 (Giscus, 基于 GitHub Discussions)
     [params.page.comment]
-      enable = false                     # 暂时关闭，需要时再开启
-      # 如果你有Valine的AppID和AppKey，可以在这里填入并改为 enable = true
-      # [params.page.comment.valine]
-      #   enable = true
-      #   appId = "你的AppID"
-      #   appKey = "你的AppKey"
-      #   placeholder = "说点什么..."
+      enable = true
+      [params.page.comment.giscus]
+        enable = false                   # 填好 categoryId 后改为 true
+        repo = "sunforestrain/sunforestrain.github.io"
+        repoId = "1166159123"
+        category = "Announcements"
+        categoryId = ""                  # 在 giscus.app 生成,见 README 步骤
+        mapping = "pathname"
+        reactionsEnabled = "1"
+        emitMetadata = "0"
+        inputPosition = "bottom"
+        lazyLoading = false
+        lightTheme = "light"
+        darkTheme = "dark"
 
   # 搜索设置
   [params.search]
