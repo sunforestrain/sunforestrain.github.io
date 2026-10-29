@@ -5,6 +5,7 @@ title = 'Social Media Running'
 featuredImage = "/images/covers/social-media-running.jpg"
 featuredImagePreview = "/images/covers/social-media-running-preview.jpg"
 images = ["/images/covers/social-media-running.jpg"]
+lightgallery = true
 +++
 
 # 我的自媒体

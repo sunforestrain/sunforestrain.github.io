@@ -5,6 +5,7 @@ title = '有一种心头痒叫老猫枕咸鱼'
 featuredImage = "/images/covers/cat-and-salted-fish.jpg"
 featuredImagePreview = "/images/covers/cat-and-salted-fish-preview.jpg"
 images = ["/images/covers/cat-and-salted-fish.jpg"]
+lightgallery = true
 +++
 
 # 有一种心头痒叫老猫枕咸鱼

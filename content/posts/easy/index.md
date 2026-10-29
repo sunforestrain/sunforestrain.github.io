@@ -5,6 +5,7 @@ title = 'Easy'
 featuredImage = "/images/covers/easy.jpg"
 featuredImagePreview = "/images/covers/easy-preview.jpg"
 images = ["/images/covers/easy.jpg"]
+lightgallery = true
 +++
 
 # 乾坤容我懒
