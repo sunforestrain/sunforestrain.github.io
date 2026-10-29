@@ -97,11 +97,11 @@ enableEmoji = true
     [params.page.comment]
       enable = true
       [params.page.comment.giscus]
-        enable = false                   # 填好 categoryId 后改为 true
+        enable = true                    # 评论已开启
         repo = "sunforestrain/sunforestrain.github.io"
-        repoId = "1166159123"
+        repoId = "R_kgDORYItEw"
         category = "Announcements"
-        categoryId = ""                  # 在 giscus.app 生成,见 README 步骤
+        categoryId = "DIC_kwDORYItE84DJ5DF"
         mapping = "pathname"
         reactionsEnabled = "1"
         emitMetadata = "0"
