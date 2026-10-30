@@ -5,6 +5,8 @@ title = 'Integrity'
 featuredImage = "/images/covers/integrity.jpg"
 featuredImagePreview = "/images/covers/integrity-preview.jpg"
 images = ["/images/covers/integrity.jpg"]
+categories = ['成长']
+tags = ['自律', '自省']
 +++
 
 # 揪出那只脏淫的鬼！  

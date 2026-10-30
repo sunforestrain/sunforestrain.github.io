@@ -5,6 +5,8 @@ title = 'Pace of work and life'
 featuredImage = "/images/covers/pace.jpg"
 featuredImagePreview = "/images/covers/pace-preview.jpg"
 images = ["/images/covers/pace.jpg"]
+categories = ['职场']
+tags = ['效率', '节奏']
 +++
 # 在工作时间拖沓，然后想着我晚上还可以熬夜。这种想法是自欺欺人的。
 一天只有24小时。工作、吃饭、睡觉哪一样都不能少。

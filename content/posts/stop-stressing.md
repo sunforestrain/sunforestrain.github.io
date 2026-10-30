@@ -5,6 +5,8 @@ title = 'Stop Stressing'
 featuredImage = "/images/covers/stop-stressing.jpg"
 featuredImagePreview = "/images/covers/stop-stressing-preview.jpg"
 images = ["/images/covers/stop-stressing.jpg"]
+categories = ['生活']
+tags = ['健康', '压力管理']
 +++
 # 学会放松 保持放松 注意健身
 前一阵清明节回家扫墓我姐说我有白头发了.

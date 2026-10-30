@@ -6,6 +6,8 @@ featuredImage = "/images/covers/easy.jpg"
 featuredImagePreview = "/images/covers/easy-preview.jpg"
 images = ["/images/covers/easy.jpg"]
 lightgallery = true
+categories = ['生活']
+tags = ['松弛感', '心态']
 +++
 
 # 乾坤容我懒

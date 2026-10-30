@@ -6,6 +6,8 @@ featuredImage = "/images/covers/happy-mid-autumn.jpg"
 featuredImagePreview = "/images/covers/happy-mid-autumn-preview.jpg"
 images = ["/images/covers/happy-mid-autumn.jpg"]
 lightgallery = true
+categories = ['生活']
+tags = ['节日', '随笔']
 +++
 # 中秋节快乐啦！
 ![中秋节快乐](images/Happy-Mid-Autumn.jpg "中秋节快乐")

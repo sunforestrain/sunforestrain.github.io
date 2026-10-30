@@ -6,6 +6,8 @@ featuredImage = "/images/covers/social-media-running.jpg"
 featuredImagePreview = "/images/covers/social-media-running-preview.jpg"
 images = ["/images/covers/social-media-running.jpg"]
 lightgallery = true
+categories = ['思考']
+tags = ['自媒体', '创作', '自然']
 +++
 
 # 我的自媒体

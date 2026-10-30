@@ -5,6 +5,8 @@ title = 'Assertive Pragmatic'
 featuredImage = "/images/covers/assertive-pragmatic.jpg"
 featuredImagePreview = "/images/covers/assertive-pragmatic-preview.jpg"
 images = ["/images/covers/assertive-pragmatic.jpg"]
+categories = ['成长']
+tags = ['自信', '务实']
 +++
 
 # 自信和务实

@@ -5,6 +5,8 @@ title = 'Get Real'
 featuredImage = "/images/covers/get-real.jpg"
 featuredImagePreview = "/images/covers/get-real-preview.jpg"
 images = ["/images/covers/get-real.jpg"]
+categories = ['成长']
+tags = ['自省', '现实']
 +++
 
 # 把生存的根深入社会的土壤

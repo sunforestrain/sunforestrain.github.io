@@ -5,6 +5,8 @@ title = 'Tips'
 featuredImage = "/images/covers/tips.jpg"
 featuredImagePreview = "/images/covers/tips-preview.jpg"
 images = ["/images/covers/tips.jpg"]
+categories = ['生活']
+tags = ['节奏', '习惯']
 +++
 # 保持自己的节奏
 音乐有节奏，生活有节奏，工作也要有节奏。

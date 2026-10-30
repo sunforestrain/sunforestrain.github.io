@@ -5,6 +5,8 @@ title = 'keeping naturally'
 featuredImage = "/images/covers/17th-april-2026.jpg"
 featuredImagePreview = "/images/covers/17th-april-2026-preview.jpg"
 images = ["/images/covers/17th-april-2026.jpg"]
+categories = ['成长']
+tags = ['自然', '人际交往']
 +++
 # 避免刻意 保持自然
 在工作和生活当中往往有一些场合需要我们改变平时的状态

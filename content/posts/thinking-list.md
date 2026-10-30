@@ -5,6 +5,8 @@ title = 'Thinking List'
 featuredImage = "/images/covers/thinking-list.jpg"
 featuredImagePreview = "/images/covers/thinking-list-preview.jpg"
 images = ["/images/covers/thinking-list.jpg"]
+categories = ['成长']
+tags = ['自信', '心态']
 +++
  # Brave-quiet-confidence
 

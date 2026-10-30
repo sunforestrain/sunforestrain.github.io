@@ -6,6 +6,8 @@ featuredImage = "/images/covers/cat-and-salted-fish.jpg"
 featuredImagePreview = "/images/covers/cat-and-salted-fish-preview.jpg"
 images = ["/images/covers/cat-and-salted-fish.jpg"]
 lightgallery = true
+categories = ['生活']
+tags = ['健康', '习惯', '随笔']
 +++
 
 # 有一种心头痒叫老猫枕咸鱼

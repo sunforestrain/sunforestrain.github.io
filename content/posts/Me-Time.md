@@ -5,6 +5,8 @@ title = 'Me Time'
 featuredImage = "/images/covers/me-time.jpg"
 featuredImagePreview = "/images/covers/me-time-preview.jpg"
 images = ["/images/covers/me-time.jpg"]
+categories = ['生活']
+tags = ['边界', '家庭']
 +++
 # work and life  Me time and we time
 以前我们总强调和追求工作和生活的平衡。在生活中，独处时间和家庭生活也需要平衡。

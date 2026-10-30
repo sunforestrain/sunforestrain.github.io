@@ -5,6 +5,8 @@ title = 'Job Insecurity'
 featuredImage = "/images/covers/job-insecurity.jpg"
 featuredImagePreview = "/images/covers/job-insecurity-preview.jpg"
 images = ["/images/covers/job-insecurity.jpg"]
+categories = ['职场']
+tags = ['不确定性', '职场感悟']
 +++
 # 不确定性是最大的确定
 人本性上是追求安全稳定的 但客观坏境往往是变化无常的

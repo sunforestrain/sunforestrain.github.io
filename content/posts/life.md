@@ -5,5 +5,7 @@ title = 'Life'
 featuredImage = "/images/covers/life.jpg"
 featuredImagePreview = "/images/covers/life-preview.jpg"
 images = ["/images/covers/life.jpg"]
+categories = ['成长']
+tags = ['耐心', '心态']
 +++
 # 要有耐心

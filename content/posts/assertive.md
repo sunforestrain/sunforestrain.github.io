@@ -5,6 +5,8 @@ title = 'Assertive'
 featuredImage = "/images/covers/assertive.jpg"
 featuredImagePreview = "/images/covers/assertive-preview.jpg"
 images = ["/images/covers/assertive.jpg"]
+categories = ['成长']
+tags = ['自信', '人际交往', '心态']
 +++
 
 # 习惯在别人面前放低姿态 过度客气 不自觉迎合  

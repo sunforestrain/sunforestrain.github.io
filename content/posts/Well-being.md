@@ -5,6 +5,8 @@ title = 'Well Being'
 featuredImage = "/images/covers/well-being.jpg"
 featuredImagePreview = "/images/covers/well-being-preview.jpg"
 images = ["/images/covers/well-being.jpg"]
+categories = ['生活']
+tags = ['健康']
 +++
 
 # 保持健康的身体和阳光的心理状态
