@@ -36,11 +36,6 @@ enableEmoji = true
     name = "关于"
     url = "/about/"
     weight = 4
-  [[menu.main]]
-    identifier = "xiaohongshu"
-    name = "小红书"
-    url = "https://www.xiaohongshu.com/user/profile/6226cbe1000000001000ed47?xsec_token=YBkekl4ugFUWUCXdlmtBgyae4tHHjuA_0qqrGHP_lWrEk%3D&xsec_source=app_share"
-    weight = 5
 
 # -- 主题参数 --
 [params]
