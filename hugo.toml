@@ -90,9 +90,9 @@ enableEmoji = true
     [params.page.code]
       copy = true
       maxShownLines = 50
-    # 分享按钮
+    # 分享按钮（2026-11-02 晓通要求：去掉，LoveIt 不支持小红书，全撤）
     [params.page.share]
-      enable = true
+      enable = false
     # 评论系统 (Giscus, 基于 GitHub Discussions)
     [params.page.comment]
       enable = true
