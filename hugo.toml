@@ -93,9 +93,9 @@ enableEmoji = true
     # 分享按钮（2026-11-02 晓通要求：去掉，LoveIt 不支持小红书，全撤）
     [params.page.share]
       enable = false
-    # 评论系统 (Giscus, 基于 GitHub Discussions)
+    # 评论系统（2026-11-02 晓通要求关闭）
     [params.page.comment]
-      enable = true
+      enable = false
       [params.page.comment.giscus]
         enable = true                    # 评论已开启
         repo = "sunforestrain/sunforestrain.github.io"

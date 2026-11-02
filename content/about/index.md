@@ -26,9 +26,6 @@ description = '关于阳光森林雨，关于这个博客'
 - GitHub：[sunforestrain](https://github.com/sunforestrain)
 - 邮箱：1064127152@qq.com
 - 小红书：[点这里找我](https://www.xiaohongshu.com/user/profile/6226cbe1000000001000ed47?xsec_token=YBkekl4ugFUWUCXdlmtBgyae4tHHjuA_0qqrGHP_lWrEk%3D&xsec_source=app_share)
-- 或者直接在这篇文章下面留言
-
-想聊什么都行，看到就会回。
 
 ## 版权
 
