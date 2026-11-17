@@ -1,9 +1,10 @@
 // ==============================
 // 站点自定义样式（覆盖主题默认）
-// 原则：纯文本、极简，不用彩色块。2026-11-17 晓通确立
+// 原则：纯文本、极简，不用彩色块（2026-11-17 晓通确立）
+// 主题主色是 #2d96bd 蓝，这里统一收敛到灰阶
 // ==============================
 
-// 引用块：主题默认是浅蓝底 + 蓝色左粗条，改为纯白底 + 一条淡灰细线
+// ---------- 引用块：去掉浅蓝底与蓝色粗条，改纯白底 + 淡灰细线 ----------
 .single .content blockquote {
   border-left: 3px solid #e3e3e3;
   background-color: transparent;
@@ -15,4 +16,105 @@
 [theme="dark"] .single .content blockquote {
   border-left-color: #3a3a3a;
   background-color: transparent;
+}
+
+// ---------- 正文链接：不靠颜色区分，正文色 + 浅灰下划线 ----------
+.single .content a {
+  color: #161209;
+  text-decoration: underline;
+  text-decoration-color: #cfcfcf;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.single .content a::before,
+.single .content a::after {
+  color: #161209;
+}
+
+.single .content a:hover,
+.single .content a:active {
+  color: #000;
+  text-decoration-color: #8a8a8a;
+}
+
+// ---------- 文章元信息（作者 / 分类 / 标签）链接：中性灰 ----------
+.single .post-meta a,
+.single .post-meta a::before,
+.single .post-meta a::after {
+  color: #7a7a7a;
+  text-decoration: none;
+}
+
+.single .post-meta a:hover,
+.single .post-meta a:active {
+  color: #161209;
+}
+
+// ---------- 标题前的装饰符（| 和 #）：淡灰 ----------
+.single .content > h2 > .header-mark::before,
+.single .content > h3 > .header-mark::before,
+.single .content > h4 > .header-mark::before,
+.single .content > h5 > .header-mark::before,
+.single .content > h6 > .header-mark::before {
+  color: #dcdcdc;
+}
+
+[theme="dark"] .single .content > h2 > .header-mark::before,
+[theme="dark"] .single .content > h3 > .header-mark::before,
+[theme="dark"] .single .content > h4 > .header-mark::before,
+[theme="dark"] .single .content > h5 > .header-mark::before,
+[theme="dark"] .single .content > h6 > .header-mark::before {
+  color: #4a4a4a;
+}
+
+// ---------- 目录：当前项与首项竖线，同收敛为灰 ----------
+.toc .toc-content ul a:first-child::before {
+  color: #dcdcdc;
+}
+
+#toc-auto .toc-content a.active {
+  color: #161209;
+}
+
+// ---------- 首页摘要卡：链接与「阅读全文」同收敛 ----------
+// 主题规则是 .home[data-home=posts] .summary .post-footer a（特异性 0,4,1），要同级覆盖
+.home[data-home="posts"] .summary .post-footer a,
+.home[data-home="posts"] .summary .post-footer a::before,
+.home[data-home="posts"] .summary .post-footer a::after,
+.home[data-home="posts"] .summary .content a,
+.home[data-home="posts"] .summary .content a::before,
+.home[data-home="posts"] .summary .content a::after {
+  color: #161209;
+  text-decoration: none;
+}
+
+.home[data-home="posts"] .summary .post-footer a:hover,
+.home[data-home="posts"] .summary .post-footer a:active {
+  color: #000;
+  text-decoration: underline;
+  text-decoration-color: #cfcfcf;
+  text-underline-offset: 3px;
+}
+
+.home[data-home="posts"] .summary .content a:hover,
+.home[data-home="posts"] .summary .content a:active {
+  color: #000;
+  text-decoration: none;
+}
+
+.home[data-home="posts"] .summary .post-footer .post-tags a,
+.home[data-home="posts"] .summary .post-footer .post-tags a::after,
+.home[data-home="posts"] .summary .post-footer .post-tags a:hover {
+  color: #7a7a7a;
+}
+
+// ---------- 其它残留的主色 hover ----------
+a:active,
+a:hover {
+  color: #161209;
+}
+
+.archive .archive-item-link:hover {
+  color: #161209;
 }
