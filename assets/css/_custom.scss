@@ -1,0 +1,18 @@
+// ==============================
+// 站点自定义样式（覆盖主题默认）
+// 原则：纯文本、极简，不用彩色块。2026-11-17 晓通确立
+// ==============================
+
+// 引用块：主题默认是浅蓝底 + 蓝色左粗条，改为纯白底 + 一条淡灰细线
+.single .content blockquote {
+  border-left: 3px solid #e3e3e3;
+  background-color: transparent;
+  color: inherit;
+  padding: 0.1rem 0 0.1rem 1rem;
+  margin: 1.2rem 0;
+}
+
+[theme="dark"] .single .content blockquote {
+  border-left-color: #3a3a3a;
+  background-color: transparent;
+}
