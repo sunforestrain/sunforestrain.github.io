@@ -28,8 +28,8 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
-          extended: true          # LoveIt 主题需要 Hugo extended 版本
+          hugo-version: '0.169.0'  # 固定版本：0.170 起不再内置 Dart Sass，LoveIt 的 SCSS 会编译失败
+          extended: true            # LoveIt 主题需要 Hugo extended 版本
 
       - name: Build
         run: hugo --minify       # 构建网站并压缩
